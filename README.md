@@ -6,7 +6,7 @@ The Library Inventory Analysis project focuses on understanding the utilization,
 
 ### 1.Creating a Database to store data
 
--**Database Name**: Library_project_4
+**Database Name**: Library_project_4
 
 ### 2.Data Exlopration and Cleaning 
 ```
